@@ -14,8 +14,10 @@
   <img align="center" alt="foto-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="foto-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="foto-bootstrap" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="foto-tailwind" height="60" width="80" src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4">
   <img align="center" alt="foto-git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="foto-java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="foto-spring" height="90" width="110" src="https://destatic.blob.core.windows.net/images/spring-boot-logo.png">
 </div>
 
  ##   
