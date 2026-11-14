@@ -1,3 +1,5 @@
+<img width="100%" src="https://i.pinimg.com/736x/ca/d0/1a/cad01af774008bc433115b116bd0f6f8.jpg" alt="Duas mãos em pixel art quase se tocando através de uma janela de programa" />
+
 <h2>Olá, eu sou o Nathan Ferreira</h2>
 
 Dev full-stack focado em **TypeScript**. Gosto de construir apps web de ponta a ponta: banco, API, autenticação e uma interface que dá gosto de usar.
