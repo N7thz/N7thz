@@ -1,40 +1,31 @@
-<img width="100%" align="center" src="https://i.pinimg.com/originals/f5/d4/75/f5d475dcbc657830c77ab317d34611aa.gif" />
+<h2>Olá, eu sou o Nathan Ferreira 👋</h2>
 
-### Olá, meu nome é Nathan Ferreira
+Dev full-stack focado em **TypeScript**. Gosto de construir apps web de ponta a ponta: banco, API, autenticação e uma interface que dá gosto de usar.
 
-<br />
+### Stack
 
-<div>
-  <a href="https://github.com/N7thz/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=N7thz&theme=dracula" />
-    </a>
-    <a href="https://github.com/N7thz/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=N7thz&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-  </a>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,bun,prisma,postgres,supabase,java,git&perline=12" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Bun, Prisma, PostgreSQL, Supabase, Java, Git" />
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="foto-next" height="60" width="80" src="https://seekicon.com/free-icon-download/next-js_1.png">
-  <img align="center" alt="foto-react" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="foto-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="foto-Ts" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="foto-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="foto-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="foto-tailwind" height="60" width="80" src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4">
-  <img align="center" alt="foto-java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="foto-node" height="60" width="80" src="https://polyakovdmitriy.ru/wp-content/uploads/2019/05/nodejs.png.pagespeed.ce_.9zN9M5IW0F.png">
-</div>
+### Projeto em destaque
 
- ##   
-    
-<div> 
-  <a href="https://www.instagram.com/nathanfelipe00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nathanferreiradev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nathan-ferreira-b74ab528b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<a href="https://github.com/N7thz/jabuti"><b>🐢 Jabuti</b></a> · <a href="https://jabuti-rho.vercel.app">jabuti-rho.vercel.app</a>
 
-<div>
+Portal open-source para qualquer pessoa acompanhar e cobrar os políticos com dados públicos oficiais: emendas parlamentares, gastos de gabinete, presença, votações, campanhas e as contas de estados e municípios. Feito para quem não é especialista, com todo termo técnico explicado e a acessibilidade em primeiro lugar.
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+`Next.js` `TypeScript` `dados abertos` `AGPL-3.0` · contribuições são bem-vindas
+
+### Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/nathan-ferreira-b74ab528b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nathanferreiradev@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/nathanfelipe00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N7thz/N7thz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N7thz/N7thz/output/github-snake.svg" />
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/N7thz/N7thz/output/github-snake.svg" />
+</picture>
