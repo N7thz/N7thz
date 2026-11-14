@@ -1,4 +1,4 @@
-<h2>Olá, eu sou o Nathan Ferreira 👋</h2>
+<h2>Olá, eu sou o Nathan Ferreira</h2>
 
 Dev full-stack focado em **TypeScript**. Gosto de construir apps web de ponta a ponta: banco, API, autenticação e uma interface que dá gosto de usar.
 
